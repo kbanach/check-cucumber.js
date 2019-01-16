@@ -1,0 +1,23 @@
+{
+  "name": "check-cucumber",
+  "version": "0.0.1",
+  "description": "Check how cucumber works",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbanach/check-cucumber.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbanach/check-cucumber.js/issues"
+  },
+  "homepage": "https://github.com/kbanach/check-cucumber.js#readme",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "jest-cucumber": "^1.0.11"
+  }
+}
